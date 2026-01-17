@@ -14,7 +14,7 @@ export async function POST(req: Request) {
 
     // Map topics to Korean
     const topicMap: Record<string, string> = {
-      'career': '커리어/진로',
+      'career': '커리어/진로/미래',
       'wealth': '재물/금전운',
       'love': '연애/인간관계',
       'health': '건강',

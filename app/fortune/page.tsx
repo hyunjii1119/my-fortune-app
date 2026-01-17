@@ -12,7 +12,7 @@ import { api } from '@/convex/_generated/api';
 import Link from 'next/link';
 
 const topics = [
-    { id: 'career', label: '커리어/진로', emoji: '💼' },
+    { id: 'career', label: '커리어/진로/미래', emoji: '💼' },
     { id: 'wealth', label: '재물/금전운', emoji: '💰' },
     { id: 'love', label: '연애/인간관계', emoji: '💕' },
     { id: 'health', label: '건강', emoji: '🏃' },
